@@ -112,8 +112,8 @@ void setup() {
   /* Assign the RTDB URL (required) */
   config.database_url = DATABASE_URL;
 
-  auth.user.email = "omarrashad02537@gmail.com";
-  auth.user.password = "OMAR1042001";
+  auth.user.email = "@gmail.com";
+  auth.user.password = "";
   /* Sign up */
   if (Firebase.signUp(&config, &auth, "", "")) {
     Serial.println("ok");
