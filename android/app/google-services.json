@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "986525426380",
+    "firebase_url": "https://health-diagnosis-94ee9-default-rtdb.firebaseio.com",
+    "project_id": "health-diagnosis-94ee9",
+    "storage_bucket": "health-diagnosis-94ee9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986525426380:android:865324e4e829dce4d5d869",
+        "android_client_info": {
+          "package_name": "com.example.health_diagnosis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986525426380-ajdnrfcgu8ouoeb891c3sgnrcjdkpm21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.health_diagnosis",
+            "certificate_hash": "203015f75591a6a16bcbacaa90d7cb0914c4d27f"
+          }
+        },
+        {
+          "client_id": "986525426380-gliknfjt226pvchv0ojc6oak9esfgco0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoZc7VJeVad76OmCK0QM_aPFosjK3V0L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986525426380-gliknfjt226pvchv0ojc6oak9esfgco0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986525426380-t8ff3n82ste6dlqsdc240mq1m5m1sb6t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.graduationProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

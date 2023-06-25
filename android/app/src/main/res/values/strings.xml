@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">graduation_project</string>
+    <string name="facebook_app_id">821582055832295</string>
+    <string name="fb_login_protocol_scheme">fb821582055832295</string>
+    <string name="facebook_client_token">4267668e2798ec7e29eb4cfb6749d21f</string>
+</resources>

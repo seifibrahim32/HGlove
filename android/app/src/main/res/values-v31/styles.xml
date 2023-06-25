@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SplashScreen" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <!-- Show a splash screen on the activity. Automatically removed when
+             the Flutter engine draws its first frame -->
+        <item name="android:windowBackground">@drawable/caduceus</item>
+        <item name="android:windowSplashScreenBackground">#ffffff</item>
+    </style>
+
+</resources>
