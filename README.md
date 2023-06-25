@@ -17,6 +17,11 @@ Not stopping only at the assessment to learn more about top 10 disease he may ge
 
 ## Connectivity with Firebase services
 
+Still writing...
+
 ## Screenshots
+
+Still updating the README file.
+Still writing...
 
 ## Tools
