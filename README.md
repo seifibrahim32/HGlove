@@ -8,7 +8,12 @@ Not stopping only at the assessment to learn more about top 10 disease he may ge
 
 ## Software
 
+- Flutter for designing the UI views.
+- Kotlin used for background services.
+
 ## Hardware
+
+- ESP32 microcontroller is used for the case 
 
 ## Connectivity with Firebase services
 
