@@ -17,7 +17,7 @@ Not stopping only at the assessment to learn more about top 10 disease he may ge
 
 ## Connectivity with Firebase services
 
-Still writing...
+I have integrated the EP32 with the Firebase using ESP32 Mozart Library where utilizes me to use authentication methods and set integer and non integer values to Realtime Database so thr Flutter apl can detect any changes automtically.
 
 ## Screenshots
 
