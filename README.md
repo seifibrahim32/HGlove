@@ -31,8 +31,10 @@ NOTE: THIS APPLICATION WAS THE GRADUATION PROJECT OF MINE WITH A+ GRADING. :))))
 
 ## Connectivity with Firebase services
 
+  ![dataflowesp32](https://github.com/seifibrahim32/HGlove/assets/58334300/d27e4414-52db-4608-a9d7-3055fca82172)
 I have integrated the ESP32 with the Firebase using ESP32 Mozart Library where utilizes me to use authentication methods and set integer and non integer values with Arduino code to Realtime Database so the Flutter app can detect any changes automtically.
 The application requires Internet to set the data in the meantime.
+
 
 ## Screenshots
 
