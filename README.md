@@ -17,6 +17,7 @@ NOTE: THIS APPLICATION WAS THE GRADUATION PROJECT OF MINE WITH A+ GRADING. :))))
 - Flutter
   
   Flutter is a cross platform application helps user to desgin multi-platform so we used it to implement in future more platforms rather than Android only.
+  
 - Kotlin
   
   We used Kotlin inside Flutter to create notifications which help user to determine the health characteristics inside as it helps the use different intents for the Android services unlike Flutter , so we enable to have ACTION_CALL which helps to call the emergency number without interfering into the main dialer of the Android phone.
@@ -35,10 +36,9 @@ NOTE: THIS APPLICATION WAS THE GRADUATION PROJECT OF MINE WITH A+ GRADING. :))))
 I have integrated the ESP32 with the Firebase using ESP32 Mozart Library where utilizes me to use authentication methods and set integer and non integer values with Arduino code to Realtime Database so the Flutter app can detect any changes automtically.
 The application requires Internet to set the data in the meantime.
 
-
-## Screenshots
+ 
 
 Still updating the README file.
 Still writing... //24 July update ...
 
-## Tools
+## Google Maps
