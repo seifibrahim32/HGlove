@@ -15,8 +15,10 @@ NOTE: THIS APPLICATION WAS THE GRADUATION PROJECT OF MINE WITH A+ GRADING. :))))
  
 
 - Flutter
+  
   Flutter is a cross platform application helps user to desgin multi-platform so we used it to implement in future more platforms rather than Android only.
 - Kotlin
+  
   We used Kotlin inside Flutter to create notifications which help user to determine the health characteristics inside as it helps the use different intents for the Android services unlike Flutter , so we enable to have ACTION_CALL which helps to call the emergency number without interfering into the main dialer of the Android phone.
   Nevertheless we used Firebase Database with Kotlin language as it involves "lateinit" for Firebase instance which secures null safety.
   
