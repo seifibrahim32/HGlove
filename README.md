@@ -9,13 +9,17 @@ Moreover , it helps the the main family carrier member to know the status of the
 NOTE: THIS APPLICATION WAS THE GRADUATION PROJECT OF MINE WITH A+ GRADING. :)))))
 
 ## Application characteristics
+| Login Screen           | Dashboard              | Medicine Alarm |  Doctor Appointments  |
+| ---------------------- | ---------------------- | ---------------------- | ---------------------- |
+|![nm13](https://github.com/seifibrahim32/HGlove/assets/58334300/f01e2aa4-8232-44ca-8bd8-0b5d0215939a)|![nm14](https://github.com/seifibrahim32/HGlove/assets/58334300/c3cb52e9-421d-4fb3-a50a-463e71729c67) |![nm12](https://github.com/seifibrahim32/HGlove/assets/58334300/16445bd4-4da6-4798-8d83-e4694199d0ad)|![nm](https://github.com/seifibrahim32/HGlove/assets/58334300/7696b071-ca9e-48d9-8c6f-afab08f7ab6e)![nm11](https://github.com/seifibrahim32/HGlove/assets/58334300/866a52ac-0966-4901-ab68-7c8da1434778)
+ 
 
 - Flutter
   Flutter is a cross platform application helps user to desgin multi-platform so we used it to implement in future more platforms rather than Android only.
 - Kotlin
   We used Kotlin inside Flutter to create notifications which help user to determine the health characteristics inside as it helps the use different intents for the Android services unlike Flutter , so we enable to have ACTION_CALL which helps to call the emergency number without interfering into the main dialer of the Android phone.
   Nevertheless we used Firebase Database with Kotlin language as it involves "lateinit" for Firebase instance which secures null safety.
-  https://drive.google.com/file/d/1GfvgMc8slmiIFEKyvC6xJw_UWAj5dutR/view?usp=sharing
+  
 ## Glove
 | Foreward               | Backward               |
 | ---------------------- | ---------------------- |
