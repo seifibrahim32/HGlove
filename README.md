@@ -39,6 +39,7 @@ The application requires Internet to set the data in the meantime.
   
 ## Pros and Cons
 -Pros
--Cons
+1. User Friendly and accessible at anytime.
+2. Self-Learning for user to know more about human health.
 ## Google Maps
-Still updating the README file....  //24 July update ...
+We used various APIs from Google Maps such as Geocoder API, Nearby Search places.
