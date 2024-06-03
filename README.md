@@ -1,10 +1,10 @@
 # HGlove
 
-A smart healthcare application system used for assisting patients to know their expected diseases by doing assessment intake vieweing some sort of medical questions , these questions are powered by EndlessMedical API which helps to give various features for the user to know the top ten diseases. 
+A smart healthcare application system used for assisting patients to know their expected diseases by doing assessment intake viewing some sort of medical questions, these questions are powered by EndlessMedical API which provides various features for the user to know the top ten diseases. 
 
-Aside of software, we implemented PCB Glove embedded with ESP32 microcontroller which sends data to Firebase Realtime database about health's body oxygen percentage, heart beats and so on, also from the Flutter app we wrote some Kotlin code which helps the application closes during termination of the application by user so in case the glove detected a reach for the maximum level of the oxygen level or heart rate it calls the nearest phone number registered by user during activation of new account.
+Aside of software, we implemented PCB Glove embedded with ESP32 microcontroller which sends data to Firebase Realtime database about health's body oxygen percentage, heart beats and so on, also from the Flutter app we wrote some Kotlin code which helps the application closes during termination of the application by the user. So, in case that the glove detected a reach for the maximum level of the oxygen level or heart rate it calls the nearest phone number registered by user during activation of new account.
 
-Moreover , it helps the the main family carrier member to know the status of the patient health every time by time as well as the patient has a good internet connection, the application serves the patient also the add some tips for the medicine intake , appointments date, and some other features will can be added in future.
+Moreover, it helps the the main family carrier member to know the status of the patient health every time-by-time as well as the patient has a good internet connection, the application serves the patient also the add some tips for the medicine intake, appointments date, and some other features will can be added in future.
 
 NOTE: THIS APPLICATION WAS THE GRADUATION PROJECT OF MINE WITH A+ GRADING. :)))))
 
@@ -16,11 +16,11 @@ NOTE: THIS APPLICATION WAS THE GRADUATION PROJECT OF MINE WITH A+ GRADING. :))))
 
 - Flutter
   
-  Flutter is a cross platform application helps user to desgin multi-platform so we used it to implement in future more platforms rather than Android only.
+  Flutter is a cross platform application helps user to design multi-platform. So, we used it to implement in future more platforms rather than Android only.
   
 - Kotlin
   
-  We used Kotlin inside Flutter to create notifications which help user to determine the health characteristics inside as it helps the use different intents for the Android services unlike Flutter , so we enable to have ACTION_CALL which helps to call the emergency number without interfering into the main dialer of the Android phone.
+  We used Kotlin inside Flutter to create notifications which help user to determine the health characteristics inside as it helps the use different intents for the Android services unlike Flutter, so we enable to have ACTION_CALL which helps to call the emergency number without interfering into the main dialer of the Android phone.
   Nevertheless we used Firebase Database with Kotlin language as it involves "lateinit" for Firebase instance which secures null safety.
   
 ## Glove
