@@ -41,6 +41,7 @@ The application requires Internet to set the data in the meantime.
 -Pros
 1. User Friendly and accessible at anytime.
 2. Self-Learning for user to know more about human health.
+
 -Cons
 1. Sensors aren't acurate so, there are error percent while sensoring a human temperature or oxygen level or et cetera...
 2. It needs local server if the application doesn't pass an internet connection.
